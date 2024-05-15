@@ -50,12 +50,12 @@
     margin: auto;
     font-size: 18px;
 }
-.correct{
+.container .correct{
     background: #dffff2;
     border-color: #00d397;
 }
 
-.wrong{
+.container .wrong{
     background: #FFEBEB;
     border-color: #FF4A00;
 }
